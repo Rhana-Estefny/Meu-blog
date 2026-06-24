@@ -1,1 +1,50 @@
 
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Volêi</title>
+    <style>
+        header{
+            background-color:  #ffd761;
+            color: #0074df;
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 16px;
+        }
+        main{
+            background-color: #ffd761;
+            color: #0074df;;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 16px;
+           }
+            img{
+               width: 80px;
+               height: 80px;
+            }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>titulo</h1>
+        <p>Vou compartilhar conhecimentos sobre os jogos de volêi</p>
+    </header>
+
+    <main>
+        <img src="Rhana.Esporte" alt="Logotipo circular estilizado em amarelo claro e azul meio escuro do Rhana Esporte, mostrando uma imagem de um jogo de volêi com personagens jogando.">
+        <h2>Bem-Vindos ao Rhana Esporte!</h2>
+        <p>Por: Rhana Estefany</p>
+        <p>Fala, galera! Sejam muito bem-vindos ao meu blog!</p>
+
+<p>Fala, galera! Sejam muito bem-vindos ao meu blog! Todos me chamam de Rhana, e criei o Rhana Esporte — com essa vibe icônica de amarelo e azul — para ser o nosso ponto de encontro oficial para falar sobre volêi e outros tipos de esportes, então fique ligado para saber mais sobre o seu esporte favorito! 🌌✨</p>
+    </main>
+</body>
+
+</html>
+
